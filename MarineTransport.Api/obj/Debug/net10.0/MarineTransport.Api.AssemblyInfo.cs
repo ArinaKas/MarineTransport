@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarineTransport.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54fb76de5fa0227557c72ac3dc47dc69cd60a020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9731271e74b67fb4fc431846d817923b72c163")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarineTransport.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarineTransport.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
