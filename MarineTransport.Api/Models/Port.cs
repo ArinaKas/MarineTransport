@@ -12,4 +12,8 @@ public class Port
 
     public ICollection<RouteStop> RouteStops { get; set; }
         = new List<RouteStop>();
+    
+    public ICollection<MovementRegistration> MovementRegistrations { get; set; }
+        = new List<MovementRegistration>();
+
 }

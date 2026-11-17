@@ -29,4 +29,18 @@ public class Trip
     public TripType TripType { get; set; }
 
     public TripStatus Status { get; set; } = TripStatus.Planned;
+
+
+    public ICollection<MovementRegistration> MovementRegistrations { get; set; }
+        = new List<MovementRegistration>();
+
+    public ICollection<CargoOperation> CargoOperations { get; set; }
+        = new List<CargoOperation>();
+
+    public ICollection<PassengerOperation> PassengerOperations { get; set; }
+        = new List<PassengerOperation>();
+
+    public ICollection<Incident> Incidents { get; set; }
+        = new List<Incident>();
+
 }
