@@ -31,3 +31,4 @@ C:\Users\user\Documents\GitHub\MarineTransport\MarineTransport.Api\obj\Debug\net
 C:\Users\user\Documents\GitHub\MarineTransport\MarineTransport.Api\obj\Debug\net10.0\MarineTransport.Api.pdb
 C:\Users\user\Documents\GitHub\MarineTransport\MarineTransport.Api\obj\Debug\net10.0\MarineTransport.Api.genruntimeconfig.cache
 C:\Users\user\Documents\GitHub\MarineTransport\MarineTransport.Api\obj\Debug\net10.0\ref\MarineTransport.Api.dll
+C:\Users\user\Documents\GitHub\MarineTransport\MarineTransport.Api\obj\Debug\net10.0\MarineTransport.Api.sourcelink.json

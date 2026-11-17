@@ -17,4 +17,10 @@ public class Ship
     public int PassengerCapacity { get; set; }
 
     public ShipStatus Status { get; set; } = ShipStatus.Available;
+
+    public ICollection<ShipTeam> Teams { get; set; }
+        = new List<ShipTeam>();
+
+    public ICollection<Trip> Trips { get; set; }
+        = new List<Trip>();
 }

@@ -9,4 +9,7 @@ public class Port
     public string Country { get; set; } = string.Empty;
 
     public string Address { get; set; } = string.Empty;
+
+    public ICollection<RouteStop> RouteStops { get; set; }
+        = new List<RouteStop>();
 }
